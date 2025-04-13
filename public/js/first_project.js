@@ -1,4 +1,4 @@
-//^^ PROJECT N01
+//^^ PROJECT N01  
 //! create a class Items for create items
 class Items {
   constructor(name, price) {
