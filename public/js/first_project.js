@@ -1,4 +1,4 @@
-//^^ PROJECT N01  
+//^^ Challenge N 01 
 //! create a class Items for create items
 class Items {
   constructor(name, price) {

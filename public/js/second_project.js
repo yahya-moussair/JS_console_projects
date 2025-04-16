@@ -1,3 +1,4 @@
+//? Bus challenge
 //! Create Class Places
 class Places {
   static array = [];
@@ -21,7 +22,7 @@ class Places {
 //! create instances of [Place]: LionsGeek, Snack, and Home.
 let lionsgeek = new Places("lionsgeek", []);
 let snack = new Places("snack", []);
-let home = new Places("home", []);
+let home = new Places("home", []);  
 //! Create class Person
 class Person {
   static array = [];
@@ -82,7 +83,7 @@ class Bus {
     } else {
       return false;
     }
-  }
+  } 
 }
 
 //! Create an instance of the Bus.
